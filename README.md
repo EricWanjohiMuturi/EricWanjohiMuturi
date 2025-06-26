@@ -3,7 +3,7 @@
 
 <h2>What I Do 🛠️</h2>
 <ul>
-  <li>Web Development: Fullstack web development is the juice. My current stack includes ReactJS, VueJS, Django, PostgreSQL ,postgresql , mysql , sequelize and prisma.</li>
+  <li>Web Development: Fullstack web development is the juice. My current stack includes ReactJS, VueJS, Django, PostgreSQL and MySQL</li>
   <li>Deployment: I think of the cloud and I get pumped up: Linux, Nginx, SSL, CI/CD, Docker....</li>
   <li>Mentorship & Consultation: just sharing my experiences and helping people choose their ideal tech.</li>
   <li>Content Creation: Sharing my coding and insights through TikTok & YouTube, where I dive into challenges, tutorials and my learning processes.</li>
