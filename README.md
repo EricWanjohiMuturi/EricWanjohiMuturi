@@ -19,9 +19,11 @@
 </ul>
  
 <h2>Let’s Connect! 🌐</h2>
-TikTok: @muturieric
-LinkedIn: Eric Muturi 
-Twitter/X: @MuturiEric_W 
+<ul>
+  <li>TikTok: @muturieric</li>
+  <li>LinkedIn: Eric Muturi</li>
+  <li>Twitter/X: @MuturiEric_W </li>
+</ul>
 
 <h2>Fun Facts 🎉</h2>
 <ul>
