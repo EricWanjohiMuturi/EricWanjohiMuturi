@@ -8,9 +8,9 @@
   <li>Mentorship & Consultation: just sharing my experiences and helping people choose their ideal tech.</li>
   <li>Content Creation: Sharing my coding and insights through TikTok & YouTube, where I dive into challenges, tutorials and my learning processes.</li>
 </ul>
-<h2>What I shipped and is live 🚀</h2>
+<h2>What I've shipped and is live 🚀</h2>
 <ul>
-  <li><strong>Stejos Tours & Travel website:</strong> Among the best tour operators in Kenya, offering resident, non-resident packages for travel. </li>
+  <li><strong>Stejos Tours & Travel website:</strong> Among the best tour operators in Kenya, offering resident & non-resident packages for travel. </li>
 </ul>
 
 <h2>What I am working on currently 🚀</h2>
