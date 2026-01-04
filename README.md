@@ -4,9 +4,13 @@
 <h2>What I Do 🛠️</h2>
 <ul>
   <li>Web Development: Fullstack web development is the juice. My current stack includes ReactJS, VueJS, Django, FastAPI, PostgreSQL and MySQL</li>
-  <li>Deployment: I think of the cloud and I get pumped up: Linux, Nginx, SSL, CI/CD, Docker....</li>
+  <li>Deployment: I think of the cloud and I get excited: Linux, Nginx, SSL, CI/CD, Docker....</li>
   <li>Mentorship & Consultation: just sharing my experiences and helping people choose their ideal tech.</li>
   <li>Content Creation: Sharing my coding and insights through TikTok & YouTube, where I dive into challenges, tutorials and my learning processes.</li>
+</ul>
+<h2>What I shipped and is live 🚀</h2>
+<ul>
+  <li><strong>Stejos Tours & Travel website:</strong> Among the best tour operators in Kenya, offering resident, non-resident packages for travel. </li>
 </ul>
 
 <h2>What I am working on currently 🚀</h2>
