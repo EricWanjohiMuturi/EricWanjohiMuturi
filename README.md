@@ -15,11 +15,9 @@
 
 <h2>What I am working on currently 🚀</h2>
 <ul>
-  <li><strong>mshopa.com:</strong> this is a unique ecommerce with some automations</li>
-  <li><strong>beirada:</strong> price comparison tool for comparing prices of products across different ecommerces</li>
-  <li><strong>nairobispaces.co.ke:</strong> BnB web application</li>
-  <li><strong>Fintech Solutions:</strong> I am helping create financial institutions come up with secure solutions for their innovations.</li>
-  <li><strong>haoyako.co.ke:</strong> Rental houses listing platform that assists users identify vacant houses/spaces for rent.</li>
+  <li><strong>Tembeza:</strong> A modern, fast, fully customizable WordPress theme built for tour operators, safari companies, and travel agencies</li>
+  <li><strong>PDFpress:</strong> A high-performance suite of PDF manipulation services </li>
+  <li><strong>Quikk:</strong> A Python SDK that brings Rust-level job processing reliability to the Python ecosystem with a focus on **Type Safety**, **Developer Experience**, and **Performance**</li>
 </ul>
  
 <h2>Let’s Connect! 🌐</h2>
