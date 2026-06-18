@@ -17,7 +17,7 @@
 <ul>
   <li><strong>Tembeza:</strong> A modern, fast, fully customizable WordPress theme built for tour operators, safari companies, and travel agencies</li>
   <li><strong>PDFpress:</strong> A high-performance suite of PDF manipulation services </li>
-  <li><strong>Quikk:</strong> A Python SDK that brings Rust-level job processing reliability to the Python ecosystem with a focus on **Type Safety**, **Developer Experience**, and **Performance**</li>
+  <li><strong>Quikk:</strong> A Python SDK that brings Rust-level job processing reliability to the Python ecosystem with a focus on Type Safety, Developer Experience, and Performance</li>
 </ul>
  
 <h2>Let’s Connect! 🌐</h2>
