@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Eric! </h1>
-<p>Welcome to my GitHub! Cracked software engineer and a constant learner based in Nairobi, Kenya. With 5 years of experience in the tech, I’m always learning new technologies and building projects that make an impact.</p>
+<p>Welcome to my GitHub! Software engineer specializing in tours and travel systems; based in Nairobi, Kenya. With more than 5 years of experience in the tech, I’m always learning new technologies and building projects that make an impact.</p>
 
 <h2>What I Do </h2>
 <ul>
